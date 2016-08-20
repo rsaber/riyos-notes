@@ -1,5 +1,5 @@
-# rnotes-markdown-sources
-The markdown documents for my online set of notes.
+# riyos-notes
+The markdown documents for my online set of notes for select courses @ UNSW.
 
 Not final.
 
