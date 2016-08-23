@@ -26,7 +26,6 @@ int missingNumber(int *array, int size){
 int main(){
 	int a1[] = {1,2,3,4,5,7,8,9,10,11};
 	int a2[] = {11,10,9,1,3,2,4,5,6,8};
-	int a3[] = {12,11,10,9,8,7,6,5,4,3,2,1};
 
 	assert(missingNumber(a1,10) == 6);
 	assert(missingNumber(a2,10) == 7);
